@@ -12,7 +12,6 @@
 1. **Pretraining** – Learns language patterns by predicting missing or next words from huge datasets.
 2. **Fine-tuning** – Improves performance for specific tasks (e.g., coding, customer support, medical QA).
 3. **Alignment** – Uses human feedback to make responses more helpful, accurate, and safer.
-
 ### What an LLM can do
 - Answer questions
 - Write and summarize text
